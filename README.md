@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Zegyananta
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Founder x Developmnent Arcanist Roleplay
+- Youtube : Zenfin Hitomaru
+- Tiktok  : Zenfin Hitomaru
+
+Forum Resmi Arcanist Community Roleplay
+https://discord.gg/arcanistrp
 
 <!---
 Zegyananta/Zegyananta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
